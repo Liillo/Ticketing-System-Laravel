@@ -1,3 +1,4 @@
+HEAD
 # Laravel Ticketing System
 
 A modern and easy-to-use ticketing web application built with **Laravel**. This system allows users to book tickets, make payments via **M-Pesa**, and validate tickets using **QR codes**. Admins can manage events, monitor bookings, and validate tickets seamlessly.
@@ -43,3 +44,7 @@ A modern and easy-to-use ticketing web application built with **Laravel**. This 
 ```bash
 git clone https://github.com/yourusername/laravel-ticketing-system.git
 cd laravel-ticketing-system
+=======
+# Ticketing-System_Laravel
+Laravel Ticketing System: A web application for booking and managing event tickets, integrating M-Pesa payments, QR code ticket validation, and an admin panel for managing events and bookings.
+ 5c5ab9d (Initial commit)

@@ -1,0 +1,8 @@
+/* Tailwind utilities (all classes + base included in v4) */
+@tailwind utilities;
+
+/* Custom font */
+body {
+  font-family: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif,
+               'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}

@@ -47,6 +47,5 @@ cd laravel-ticketing-system
 =======
 # Ticketing-System_Laravel
 Laravel Ticketing System: A web application for booking and managing event tickets, integrating M-Pesa payments, QR code ticket validation, and an admin panel for managing events and bookings.
- 5c5ab9d (Initial commit)
 =======
->>>>>>> 2f3d3ad (Update README.md)
+
